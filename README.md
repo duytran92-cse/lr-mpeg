@@ -1,2 +1,3 @@
-# lr-mpeg
-lr-mpeg
+# How to run
+
+```python3 mpeg.py```
